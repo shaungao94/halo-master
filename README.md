@@ -18,7 +18,7 @@
 
 ## 简介
 
-**Halo** `[ˈheɪloʊ]`，一个优秀的开源博客发布应用，值得一试。
+**Halo** `[ˈheɪloʊ]`，整合测试。
 
 [官网](https://halo.run) | [文档](https://docs.halo.run) | [社区](https://bbs.halo.run) | [Gitee](https://gitee.com/halo-dev) | [Telegram 频道](https://t.me/halo_dev)
 
